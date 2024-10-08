@@ -25,5 +25,4 @@ const setupAll = async () => {
   app.use(WebSocketPlugin)
   app.mount('#app')
 }
-
 setupAll()
